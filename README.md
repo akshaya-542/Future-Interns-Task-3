@@ -14,3 +14,7 @@ Designed a CRM dashboard to help businesses manage leads, clients, tasks, and fo
 ### Tools Used
 - Figma
 - UI/UX Design
+
+## Figma Design
+
+https://www.figma.com/design/uDbx7xKNCjiYzznemKShQV/Task-3?t=rFdc1jdSCoo4fkzv-1
